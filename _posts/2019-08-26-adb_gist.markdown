@@ -1,0 +1,18 @@
+---
+layout: post
+title: a post with code
+date: 2015-07-15 15:09:00
+description: an example of a blog post with some code
+---
+
+If you develop Android appication on Linux and have ran into an issue with testing on a physical device the following script might help. All you have to do is plug in your phone and restart ADB. To use this script just cd into the directory containing ADB. It is usually /home/USERNAME/Android/Sdk/platform-tools.
+
+{% highlight bash%}
+#! /bin/bash
+cd /home/jcasey/Android/Sdk/platform-tools
+sudo ./adb kill-server
+sudo ./adb start-server
+sudo ./adb devices
+{% endhighlight %}
+
+Give this a try and hopfully it fixes your problem.

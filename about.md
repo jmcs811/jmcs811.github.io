@@ -7,9 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+I am a computer science student currently studying at the University of Maryland Global Campus. I like building software and solving complex problems. I have the most expirence with Java but I have used Python, C, and x86 assembly to name a few others. I enjoy leanrning about Android development and building appications. I am hoping to start a career as a software engineer upon graduating. 
 
 
 <br/>
